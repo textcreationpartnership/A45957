@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An invitation to a solemn day of humiliation (viz. the third day of the seventh moneth, 57.) to the Lords people in the three nations who are sensible of the great dishonour of God; and desire to approve themselves faithfull to God and his work in this day of division  and apostacy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45957</idno>
+            <idno type="STC">Wing I289A</idno>
+            <idno type="STC">ESTC R213866</idno>
+            <idno type="EEBO-CITATION">99826128</idno>
+            <idno type="PROQUEST">99826128</idno>
+            <idno type="VID">30520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1760:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An invitation to a solemn day of humiliation (viz. the third day of the seventh moneth, 57.) to the Lords people in the three nations who are sensible of the great dishonour of God; and desire to approve themselves faithfull to God and his work in this day of division  and apostacy.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman, and are to be sold at the Crown in Popes-head-alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Clem. Ireton [and 7 others].</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30520:1"/>
+            <head>An <hi>INVITATION</hi> to a <hi>Solemn Day of HUMILIATION</hi> (viz. <date>
+                  <hi>the third day of the ſeventh Moneth,</hi> 57.</date>) to the Lords People in the three Nations who are ſenſible of the great diſhonour of God; and deſire to approve themſelves Faithfull to God and his Work in this day of Diviſion and <hi>Apoſtacy.</hi>
+            </head>
+            <p>THe Lord God by a ſeries of remarkable and extraordinary providences, hath for ſeverall years, given occaſion to his People throughout theſe three <hi>Nations</hi>; as to remember and praiſe him for his wonderfull gracious <hi>dealings,</hi> ſo to make inqui<g ref="char:EOLhyphen"/>ry into his wiſe and good <hi>ends</hi>; with the externall cauſes of the late ſtrange and ſad tranſactions among us; and of the lamentable and miſerable effects already appearing, and which muſt further unavoidably follow; if the Lords rich grace even beyond our ap<g ref="char:EOLhyphen"/>prehenſions doth not prevent: We alſo obſerving both in our ſelves and others, too too little ſenſe of <hi>the great diſhonor of our good God,</hi> the burthen of reproach and rebuke of Chriſt, his Cauſe, King<g ref="char:EOLhyphen"/>dome, People, Ways, and moſt glorious works ly under, (by reaſon of the great ſins of all ſorts of Profeſſors, and of the grievous <hi>Apo<g ref="char:EOLhyphen"/>ſtacy</hi> of thoſe who make themſelves tranſgreſſors by building the things they had deſtroyed, that God had heretofore made uſe<g ref="char:EOLhyphen"/>full for the recovery of his People and theſe Nations, out of the hands of their Perſecutors and Oppreſſors;) we ſay upon theſe conſiderations being met together to ſeek the face of God, deſirous to prove what is that good and acceptable will of his, it came into our hearts to ſet a part one or more ſolemn dayes, to humble our ſouls for our own, and the ſins of all Gods People, which may pro<g ref="char:EOLhyphen"/>voke the eyes of his glory; as alſo for the abominations of this day, and likewiſe to wraſtle with the Lord, for the great things of his Name, his Son and Syon: for which purpoſe, we have agreed upon the 3. day of the next Moneth being the 7. commonly called <hi>September,</hi> (being the fifth day of the week called Thurſday) which we are encouraged to recommend to all that fear the Lord, who deſire to be preſerved from and to mourn under the evills of this Generation, that we might with one accord, as one man call upon the name of the Lord: Whereunto we are the more induced from the conſideration of the commendable practice of the Lords Peo<g ref="char:EOLhyphen"/>ple formerly, as of <hi>Eſther</hi> &amp; <hi>Mordecai, Ezra, Nehemia; &amp;c.</hi> as alſo the Lords People of latter times, the good <hi>old Puritans,</hi> in the dayes of the Prelates; and many of the Army, and others in the late Wars; Moreover, it is commanded <note n="*" place="margin">
+                  <p>
+                     <hi>Eſth</hi> 4.5. <hi>Ez.</hi> 8.213 <hi>Eſt.</hi> 9.3.5 <hi>Neh.</hi> 9.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Zeph.</hi> 3.7. <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ach.</hi> 8.21, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2.</p>
+                  <p>
+                     <hi>Heb.</hi> 10.14, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</p>
+               </note> and promiſed by the Lord, that his People ſhall pray and ſeek unto him together, and ſerve him with one conſent; and it is their duty by how much the more the day of the Lord approacheth, to aſſemble themſelves together and be provoking each other thereunto: Further, God ſeems to call upon us by his many ſignes, which may preſage the approach<g ref="char:EOLhyphen"/>ing of ſpeciall mercies, or ſignal judgments, With all, many or moſt of Gods People complain of a decay, and declining, (eſpecially of late) in this ſpiritual duty, by means wherof, their hearts grow har<g ref="char:EOLhyphen"/>der and ſtraighter, and wickedneſſe and worldlineſſe abounds; this alſo might be added, that there is no other doore open, wherein we may hope at this juncture, more to ſerve the will of God and our Generation, than by a diligent and more than ordinary at<g ref="char:EOLhyphen"/>tending the throne of grace, untill the Lord have mercy, and reign righteouſneſs upon us: And as a farther Provocation to that du<g ref="char:EOLhyphen"/>ty of Prayer in generall, we add the following Motives.</p>
+            <p>
+               <hi>Becauſe this is a day of trouble and rebuke,</hi> Pſalm 50.15. Neh. 1.3, 4 Eſay 37.3, 4.</p>
+            <p>
+               <hi>This is an houre of Temptation,</hi> Mat. 26.41. Luke 21.35, 36. <hi>And a day of Apoſtaſie,</hi> Jude 20. <hi>And prayer is a choiſe piece of the ſpiri<g ref="char:EOLhyphen"/>tuall Armour,</hi> Epheſ. 6.18. <hi>Prayer is Gods delight,</hi> Prov. 15. v. 18. Cant. 2.14.</p>
+            <p>
+               <hi>It is of great power and prevalency with God,</hi> Gen. 32.26, 28. Exo. 32.10, 11, 14. Jam. 5.16. <hi>and hath effected ſtrange and marvellous things,</hi> Jam. 5.17, 18. 1 King. 18.36, 38. 2 King. 6.17, 18. Eſay 37.15 21, 22. and 36. 2 Chron. 14.11, 12. Acts 12.5, 6, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Though God will deal graciouſly with his people, yet he waits to hear their cry</hi>; Eſa. 30.14. <hi>And as he hath bound himſelf to give, ſo his People to ask,</hi> 1 King. 3.5. 2 Sam. 7.27. Pſal. 2.8. Pſal. 72. v. 8.15. Eſa. 62.5, 6, 7. Ezek. 36.36, 37.</p>
+            <p>
+               <hi>The People and Work of God want reviving,</hi> Ezra 9.8. Hab. 3.2. <hi>They are deſtitute,</hi> Pſal. 102.17, 18. <hi>And are waiting as</hi> Daniel <hi>for</hi> Iſ<g ref="char:EOLhyphen"/>raels <hi>Redemption,</hi> Dan. 9.2, 3, 4. <hi>And as</hi> Jehoſaphat <hi>not knowing what to do ſave to have their eyes to the Lord. This is a Command with ſpeciall promiſes annexed,</hi> Jer. 33.3. Luke 11.9, 10. Pſalm 18.10. <hi>more particular: firſt, They that ſeek the Lord may be hid and ſpared, in the day of his anger</hi>: Zeph. 2.3. Ezek. 9.4.6. Mal. 3.16, 17. Eſa. 65.10. <hi>Secondly, They ſhall underſtand all things.</hi> Prov. 28.5. Jam. 1.5. Luk. 11.13. <hi>Thirdly, Their hearts ſhall live,</hi> Pſ. 69.32. and 22.26. <hi>And they grow ſtronger whileſt others faint and faile,</hi> Eſa. 40.31. <hi>Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thly, They ſhall be ſaved from their enemies.</hi> Pſalm. 18.3. <hi>&amp;</hi> 56.9. <hi>Fifthly, They ſhall glorifie God</hi>: Pſal. 22.26. and 50.15. <hi>Sixthly, They ſhall lack no good thing,</hi> Pſal. 34.10. <hi>&amp;</hi> 24.5, 6. <hi>Seventhly, They ſhall be delivered out of their diſtreſſes, and led in a right way.</hi> Pſ. 107.6, 7. Jer. 31.9.</p>
+            <p>
+               <hi>Never any ſought God in vain,</hi> Eſa. 45.19. Pſal. 9.10.145.18, 19.</p>
+            <p>Having thus ſignified the thoughts and deſires of our hearts, we ſhall leave all to the <hi>Leading</hi> of Gods gracious Spirit: Not judging it convenient to point out unto others, the particulars to be Prayed for. Though we finde not onely our ſelves, but the generality of Saints, <hi>agreeing</hi> 
+               <note n="a" place="margin">
+                  <hi>Mat.</hi> 18.19. <hi>Act.</hi> 2.1 2, &amp;c.</note> 
+               <hi>to aske</hi>; the more full performance of <hi>the great</hi> 
+               <note n="b" place="margin">Luke <hi>24.49.</hi> Act. <hi>1.4</hi>
+               </note> 
+               <hi>Promiſe of the Father</hi>: even, <note n="c" place="margin">
+                  <hi>Joel</hi> 2.28. <hi>Iſa.</hi> 32.15.</note> 
+               <hi>the pouring out of the Spirit. That he would</hi> 
+               <note n="d" place="margin">
+                  <hi>Iſa.</hi> 25.7. <hi>Ha.</hi> 2.13, 14</note> 
+               <hi>deſtroy the face of the covering caſt over all people; and the vaile that is caſt over all Nations.</hi> In particular <note n="e" place="margin">2 <hi>Cor.</hi> 3.14 15, 16 <hi>Rom</hi> 11, 12.</note> 
+               <hi>the vaile upon the hearts of the Jews, that they might turn to the Lord.</hi> So <note n="f" place="margin">
+                  <hi>Pſ.</hi> 90.13 14, 15, 16, 17, <hi>and</hi> 80.14, 15.18.</note> 
+               <hi>the raiſing up of the hearts of the Lords People in his Work and Wayes.</hi> And the <note n="g" place="margin">Hab. <hi>3.2.</hi> Ezr. <hi>9.8.</hi>
+               </note> 
+               <hi>reviving of his great work which he had begun in theſe Nations. The</hi> 
+               <note n="h" place="margin">
+                  <hi>Joſh.</hi> 7. <hi>Pſal.</hi> 125.4 5 <hi>&amp;</hi> 140.11 1 <hi>King.</hi> 18, 17, 18, <hi>&amp;c.</hi>
+               </note> 
+               <hi>diſcovering and removing</hi> all the <hi>Achans</hi> and <hi>Troublers. The</hi> 
+               <note n="i" place="margin">
+                  <hi>Rev.</hi> 18.4 <hi>Zach.</hi> 3.2. 2 <hi>Tim</hi> 3.1, 2 5.</note> 
+               <hi>pluck<g ref="char:EOLhyphen"/>ing all Zions Children out of Babylon.</hi> With <hi>the</hi> 
+               <note n="k" place="margin">
+                  <hi>Iſa.</hi> 57.14.</note> 
+               <hi>removing of all ſtumbling blocks out of their way. The</hi> 
+               <note n="l" place="margin">
+                  <hi>Pſ.</hi> 94.15. <hi>Iſa.</hi> 61.11.</note> 
+               <hi>returning of judgement unto righteouſneſs. The</hi> 
+               <note n="m" place="margin">
+                  <hi>Pſ.</hi> 133.1 <hi>Zep.</hi> 3.9.</note>
+               <note n="n" place="margin">2 <hi>Tim.</hi> 2.24. <hi>Mat.</hi> 25.4.10.</note> 
+               <hi>uniting of all the upright in heart, And making them meet for the maſters uſe.</hi> Briefly, <hi>the</hi> 
+               <note n="o" place="margin">2 <hi>Theſ.</hi> 2.8 <hi>Rev.</hi> 18.21.</note> 
+               <hi>utter ruine of the whole Kingdome of the man of Sin.</hi> In order to <hi>Chriſts</hi> 
+               <note n="p" place="margin">
+                  <hi>Iſa.</hi> 32.1.</note> 
+               <hi>Reigning in Righ<g ref="char:EOLhyphen"/>teouſneſſe over</hi> 
+               <note n="q" place="margin">
+                  <hi>Rev.</hi> 15.3.</note> 
+               <hi>Saints and all</hi> 
+               <note n="r" place="margin">
+                  <hi>Jer.</hi> 10.7. <hi>Dan.</hi> 7.14. <hi>Pſ.</hi> 2.8. <hi>&amp;</hi> 72.8.</note> 
+               <hi>Nations.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Clem. Ireton.</item>
+                     <item>H. Jeſſey.</item>
+                     <item>Va. Powell.</item>
+                     <item>H. Courtney.</item>
+                     <item>T. Harriſon.</item>
+                     <item>J. Danvers.</item>
+                     <item>John Canne.</item>
+                     <item>John Rogers.</item>
+                  </list>
+               </signed>
+               <dateline>Subſcribed <date>the ſeventh of the ſixth Moneth <hi>Auguſt,</hi> 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewell Chapman,</hi> and are to be ſold at the Crown in <hi>Popes-head-alley,</hi> 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
